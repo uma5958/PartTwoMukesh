@@ -1,0 +1,4 @@
+ChromeDriver=./drivers/chromedriver.exe
+GeckoDriver=E:\STS\work\Mukesh2\drivers\geckodriver.exe
+URL=http://www.learn-automation.com
+ExcelPath=
